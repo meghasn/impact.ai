@@ -1,0 +1,7 @@
+arguments: align_dataset_mtcnn.py 'images' 'face_align_dataset'
+--------------------
+tensorflow version: 2.3.0
+--------------------
+git hash: b''
+--------------------
+b''

@@ -1,0 +1,7 @@
+arguments: align_dataset_mtcnn.py input_dir C:\Users\pnc\Documents\impact.ai\megha-facenet\images
+--------------------
+tensorflow version: 2.3.0
+--------------------
+git hash: b''
+--------------------
+b''
