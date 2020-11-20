@@ -79,6 +79,7 @@ class Recognition:
                 cv2.imshow("Face: " + str(i), face.image)
             face.embedding = self.encoder.generate_embedding(face)
             face.name = self.identifier.identify(face)
+            
 
         return faces
 
